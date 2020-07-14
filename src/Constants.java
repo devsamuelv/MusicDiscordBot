@@ -1,3 +1,5 @@
+import util.Json;
+
 public class Constants {
-    public String Token = "NzMyNDA1OTk0NzI2MDk2ODk2.Xw0IaA.rUOH06r94ynM1K1cRxD4tzuuZd4";
-} 
+    public String path = "C:\\Users\\capts\\Desktop\\code\\java\\streamjavadiscordbot\\src\\env.json";
+}

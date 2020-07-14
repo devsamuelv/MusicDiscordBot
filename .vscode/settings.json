@@ -1,6 +1,7 @@
 {
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "c:\\Users\\capts\\Documents\\JAR\\Discord JDA\\JDA-4.2.0_168-withDependencies.jar"
+        "c:\\Users\\capts\\Documents\\JAR\\Discord JDA\\JDA-4.2.0_168-withDependencies.jar",
+        "c:\\Users\\capts\\Documents\\JAR\\json-simple-1.1.jar"
     ]
 }
